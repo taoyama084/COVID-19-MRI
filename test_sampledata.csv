@@ -1,5 +1,5 @@
 MunicipalityName,MunicipalitiyCode,Date,S1_School closing,S1_IsGeneral,S1_Notes,S2_Workplace closing,S2_IsGeneral,S2_Notes,S3_Cancel public events,S3_IsGeneral,S3_Notes,S4_Close public transport,S4_IsGeneral,S4_Notes,S5_Public information campaigns,S5_IsGeneral,S5_Notes,S6_Restrictions on internal movement,S6_IsGeneral,S6_Notes,S7_International travel controls,S7_Notes,S8_Fiscal measures,S8_Notes,S9_Monetary measures,S9_Notes,S10_Emergency investment in health care,S10_Notes,S11_Investment in Vaccines,S11_Notes,S12_Testing framework,S12_Notes,S13_Contact tracing,S13_Notes,ConfirmedCases,ConfirmedDeaths,StringencyIndex,StringencyIndexForDisplay
-Japan,JPN,20200310,1,1,why is thatT,1,1,,1,1,,0,1,,1,1,,1,1,,2,,3685314415,"Cabinet Office
+Japan,JPN,20200310,1,1,why is thatTT,1,1,,1,1,,0,1,,1,1,,1,1,,2,,3685314415,"Cabinet Office
  https://www.kantei.go.jp/jp/content/000060756.pdf
  ??????1?(153??)???????????????????2,715 ??(???? 2,295 ??????? 420 ??)????????????? 2???? 4,308 ????????????
  4,308 ??-486 ??(S10 investment in healthcare)=3822??'",-0.1,,468619258,"Cabinet Office (in Japanese)
