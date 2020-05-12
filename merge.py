@@ -17,6 +17,8 @@ all_filenames = [i for i in glob.glob(os.path.join(path,'*.{}'.format(extension)
 #Combine all files in the list and export as CSV
 #combine all files in the list
 combined_xlsx = pd.concat([pd.read_excel(f) for f in all_filenames ])
+combined_xlsx['Date'] = pd.to_datetime(combined_xlsx['Date'],format='%Y%m%d')
+combined_xlsx['Date'] = combined_xlsx['Date'].dt.strftime('%Y-%m-%d')
 #export to csv
 combined_xlsx.to_csv( "combined_csv.csv", index=False, encoding='utf-8-sig')
 
